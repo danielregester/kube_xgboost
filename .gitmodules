@@ -1,0 +1,6 @@
+[submodule "kustomize"]
+	path = kustomize
+	url = https://github.com/kubernetes-sigs/kustomize
+[submodule "xgboost-operator"]
+	path = xgboost-operator
+	url = https://github.com/kubeflow/xgboost-operator
