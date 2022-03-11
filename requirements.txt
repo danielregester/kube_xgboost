@@ -1,0 +1,32 @@
+# Source: https://github.com/ageron/handson-ml/blob/master/requirements.txt#L9
+
+# TensorFlow is much easier to install using Anaconda, especially
+# on Windows or when using a GPU. Please see the installation
+# instructions in INSTALL.md
+
+##### Core scientific packages
+jupyter
+numpy
+pandas
+scipy
+
+
+#### plotting
+matplotlib
+plotly
+seaborn
+
+
+##### Machine Learning packages
+scikit-learn
+xgboost
+statsmodels
+
+##### Image manipulation
+Pillow
+graphviz
+pyglet
+scikit-image
+
+##### Additional utilities
+joblib
